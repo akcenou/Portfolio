@@ -1,3 +1,4 @@
-E-commerce — Выявление профилей потребления
+1. Project 'Machine Learning - Customer Profiles' :
 
-Сегментирование покупателей по профилю потребления
+   Customer Segmentation by Consumption Profile
+   
